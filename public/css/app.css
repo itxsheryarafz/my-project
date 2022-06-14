@@ -5268,6 +5268,12 @@ textarea.form-control-lg {
   outline: 0;
 }
 
+.card-warning
+  {
+    margin-left: 15%;
+    min-width: 71%;
+  }
+
 .modal-dialog {
   position: relative;
   width: auto;
